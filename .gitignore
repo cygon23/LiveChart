@@ -1,4 +1,10 @@
 # Laravel-specific
+ config/
+ lang/
+ package.json
+ phpunit.xml
+ vite.config.js
+/artisan/
 /vendor/
 /node_modules/
 /public/storage
